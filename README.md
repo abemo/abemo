@@ -9,13 +9,6 @@ I’m Abraham (Abe) Moore Odell. I’m a junior computer science major at Loyola
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-Python_3-informational?style=flat&logo=python&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Library-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Library-discord.js-informational?style=flat&logo=discord&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Library-p5.js-informational?style=flat&logo=p5dotjs&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=c63f79)
-![](https://img.shields.io/badge/Tool-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=c63f79)
 
 ## 📈 GitHub Stats
 
