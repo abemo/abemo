@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m Abraham (Abe) Moore Odell. I’m a junior computer science major at Loyola Marymount University. When I’m not coding, I’m on the tennis courts. Check out some of my projects, or challenge me to a match below!
+I’m Abraham (Abe) Moore Odell. I’m a junior computer science major at Loyola Marymount University. When I’m not coding, I’m on the tennis courts. Feel free to check out some of my projects, or challenge me to a tennis match! 🎾
 
 ## 🔧 Tools & Technologies
 
