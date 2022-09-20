@@ -10,22 +10,4 @@ I’m Abraham (Abe) Moore Odell. I’m a junior computer science major at Loyola
 ![](https://img.shields.io/badge/Code-Python_3-informational?style=flat&logo=python&logoColor=white&color=c63f79)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c63f79)
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/abemo?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abemo&theme=radical&langs_count=3&hide=html" />
-</a>
-<a href="https://github.com/abemo/abemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abemo&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Aidan's GitHub Stats" />
-</a>
-
-<a href="https://github.com/abemo/LMU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abemo&repo=LMU&theme=radical" />
-</a>
-
-
-<a href="https://github.com/abemo/zombies-among-us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abemo&repo=zombies-among-us&theme=radical" />
-</a>
-
 
