@@ -25,16 +25,3 @@ input, textarea {
 input::placeholder, textarea::placeholder {
     color: #999; /* Faint grey placeholder text */
 }
-
-button {
-    background-color: #5b5e60;
-    color: white;
-    border: none;
-    border-radius: 2px;
-    padding: 12px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
