@@ -9,23 +9,14 @@
 </head>
 <body>
     <header>
-        <img src="circle-profile.png" alt="Your Name" class="profile-img">
+        <img src="circle-profile.png" alt="Your Name" class="profile-img" width="25%" height="auto">
         <h1>Abraham Moore Odell</h1>
         <p>AI Researcher and Software Engineer</p>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#links">Links</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-
     <section id="about">
         <h2>About Me</h2>
-        <p>A short bio about you and your research interests.</p>
+        <p>I believe that computers can be used to make our lives better. I research AI causal reasoning, exploring how artificial intelligence can understand cause-and-effect relationships. I earned my bachelor's and master's degrees in Computer Science from Loyola Marymount University in a combined 4 years. Since 2023, I have been conducting AI research at the ARL Army Research Lab. In my free time, I enjoy playing tennis and coaching youth lessons. I'm also passionate about strategy games and games of incomplete information, which challenge players to think critically and adapt to uncertainty.</p>
     </section>
 
     <section id="links">
@@ -49,7 +40,22 @@
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <form action="https://api.web3forms.com/submit" method="POST">
+
+            <!-- Replace with your Access Key -->
+            <input type="hidden" name="access_key" value="925a5d3d-da76-484e-a954-ea213a8a3a14">
+        
+            <!-- Form Inputs. Each input must have a name="" attribute -->
+            <input type="text" name="name" required>
+            <input type="email" name="email" required>
+            <textarea name="message" required></textarea>
+        
+            <!-- Honeypot Spam Protection -->
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+        
+            <button type="submit">Submit Form</button>
+        
+        </form>
     </section>
 
     <footer>
