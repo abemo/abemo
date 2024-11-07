@@ -3,24 +3,23 @@ form {
     flex-direction: column; /* Stack elements vertically */
     width: 100%; /* Full width for form container */
     max-width: 400px; /* Adjust the max width of the form container */
-    margin: 0 auto; /* Center the form */
 }
 
 input, textarea, button {
-    margin-bottom: 15px; /* Space between form elements */
+    margin-bottom: 10px; /* Space between form elements */
     padding: 10px;
-    font-size: 16px;
+    font-size: 12px;
     width: 100%; /* Full width for each input and button */
     box-sizing: border-box; /* Ensure padding doesn't affect width */
 }
 
 textarea {
-    height: 100px; /* Give the message textarea a fixed height */
+    height: 75px; /* Give the message textarea a fixed height */
 }
 
 input, textarea {
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 input::placeholder, textarea::placeholder {
@@ -28,10 +27,10 @@ input::placeholder, textarea::placeholder {
 }
 
 button {
-    background-color: #3498db;
+    background-color: #5b5e60;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 2px;
     padding: 12px;
     cursor: pointer;
 }
