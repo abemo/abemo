@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%; /* Adjust width as needed */
+    max-width: 400px; /* Optional: limit max width for the form */
+    margin: 0 auto; /* Optional: center the form */
+}
+
+input, textarea, button {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box; /* Ensure padding does not affect width */
+}
+
+input, textarea {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input::placeholder, textarea::placeholder {
+    color: #999; /* Faint grey text */
+}
+
+button {
+    background-color: #3498db; /* Button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9; /* Darker color on hover */
+}
