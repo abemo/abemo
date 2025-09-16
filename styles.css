@@ -334,9 +334,23 @@ footer {
   }
 }
 
-@media (max-width: 768px) {
-  .projects {
-    grid-template-columns: 1fr;
+@media (orientation: portrait) {
+  section {
+    height: 100vh;
+    padding: 20px 15px;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+  header img {
+    max-height: 30vh;
+    margin: 0 0 15px 0;
   }
 
   .header-description h1 {
@@ -355,13 +369,26 @@ footer {
   }
 
   .header-description ul li {
-    font-size: 1.2em;
-    padding: 8px;
+    font-size: 1.1em;
+    padding: 6px 10px;
   }
 
-  section {
-    height: auto;
-    padding: 30px 15px;
+  .projects {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .project-card {
+    flex-direction: column;
+    text-align: center;
+    width: 95%;
+  }
+
+  .project-card img {
+    max-width: 80%;
+    margin-bottom: 10px;
   }
 
   #about p {
@@ -370,18 +397,25 @@ footer {
   }
 
   form {
-    width: 100%;
+    width: 85%;
     max-width: 350px;
     padding: 20px;
   }
 
   .social-card {
-    font-size: 1.1em;
+    font-size: 1em;
     padding: 12px;
   }
 
   .social-card img {
     width: 24px;
     height: 24px;
+  }
+
+  .contact {
+    height: 90vh;
+  }
+  footer {
+    height: 10vh;
   }
 }
