@@ -7,4 +7,3 @@ https://abemo.github.io/abemo/
 TODOs:
 
 - [ ] add updated journalism research, and wiki export to projects
-- [ ] optimize mobile styles
